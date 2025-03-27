@@ -1,1 +1,1 @@
-# La-page-caf-
+# La-page-café
