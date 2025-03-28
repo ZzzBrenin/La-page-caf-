@@ -42,6 +42,7 @@
         </div>
     
         <h2><strong>Bebidas</strong></h2>
+        <hr>
         <ul>
             <li><strong>Café Clássico:</strong>café filtrado, disponível em diferentes tipos de torrefação.<br>Médio:6.50$ Grande:8.50$</li>
             <li><strong>Café Espresso:</strong>café concentrado servido em pequenas doses, ideal para quem gosta de um café forte e intenso.<br>Médio:10.50$ Grande:14.50$</li> 
@@ -56,6 +57,7 @@
         </ul>
     
         <h2><strong>Acompanhamentos </strong></h2>
+        <hr>
         <ul>
             <li><strong>Waflle:</strong>frango/ presunto e queijo.<br>12.75$</li>
             <li><strong>Cookies:</strong>Chocolate.<br>13.50$</li>
@@ -68,6 +70,7 @@
         </ul>
     
         <h2>Adicionais</h2>
+        <hr>
         <ul>
             <li><strong>Leite (Integral, Desnatado, Amêndoa, Coco, Soja).</strong><br>3.00$</li>
             <li><strong>Xarope (Baunilha, Caramelo, Noz de Macadâmia, Chocolate Branco).</strong><br>5.00$</li>
