@@ -7,7 +7,7 @@
 
     <style>
         body{
-            background-color: rgb(192, 140, 71);
+            background-color: antiquewhite;
         }
         .cardapio{
             
