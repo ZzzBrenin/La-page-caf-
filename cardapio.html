@@ -77,7 +77,6 @@
             <li><strong>Chantilly.</strong><br>3.50$</li>
             <li><strong>Canela em pó.</strong><br>2.50$</li>
             <li><strong>Chocolate em pó.</strong><br>2.50$</li> 
-            <li><strong>Chantilly.</strong><br>3.00$</li>
         </ul>
     
         </main>
