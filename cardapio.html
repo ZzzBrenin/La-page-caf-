@@ -23,7 +23,6 @@
             background-color: blanchedalmond;
             padding: 20px;
             border-radius: 100px;
-            text-overflow: clip;
         }
 
         h2{
