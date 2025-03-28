@@ -79,7 +79,7 @@
             <li><strong>Chocolate em pó.</strong><br>2.50$</li> 
         </ul>
     
-        </main>
+    </main>
     
 </body>
 </html>
